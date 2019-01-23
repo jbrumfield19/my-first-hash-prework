@@ -1,5 +1,5 @@
 def my_hash
-  my_hashFam = {"dog" => "Amethyst", "husband" => "Alex"
+  my_hashFam = {"dog" => "Amethyst", "husband" => "Alex", "me"=> "Jessica"}
   
 end
 
